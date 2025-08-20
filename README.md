@@ -10,5 +10,5 @@ Since the source code belongs to the institution, it cannot be shared publicly.
 
 This repository only contains the architecture summary, methodology, and overall design documentation.
 
-**⚠️[Project overview (Pdf)](docs/project-overview.pdf): The problem formulation, proposed architecture, experimental setup, results are provided in this PDF..**
+**⚠️[Project overview (Pdf)](docs/project-overview.pdf): The problem formulation, proposed architecture, experimental setup, results are provided in this PDF.**
 
