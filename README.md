@@ -12,4 +12,4 @@ This repository only contains the architecture summary, methodology, and overall
 
 **⚠️[Project overview (Pdf)](docs/project-overview.pdf): The problem formulation, and proposed architecture are provided in this PDF.**
 
-**Keywords:** Deep Reinforcement Learning (DRL), Optical Transport Networks (OTN), Network Reconfiguration, Deep Q-Network (DQN), Dueling DQN, Experience Replay, Network Migration, Service Disruption Minimization, PyTorch, Python.
+**Keywords:** Python, Deep Q-Network (DQN), Deep Reinforcement Learning (DRL), Dueling DQN, Experience Replay, Network Migration, Network Reconfiguration, Optical Transport Networks (OTN), PyTorch, Service Disruption Minimization.
